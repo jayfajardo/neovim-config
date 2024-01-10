@@ -1,3 +1,8 @@
+-- vim.o.guifont = "Source Code Pro:h12:#h-slight"
+-- vim.o.guifont = "Fira Mono:h12:#h-slight"
+vim.o.guifont = "Hack Nerd Font Mono:h12:#h-slight"
+-- vim.o.guifont = "Menlo:h12:#h-slight"
+
 vim.g.mapleader = " "
 vim.api.nvim_set_keymap('i', 'jk', '<ESC>', { noremap = true })
 
