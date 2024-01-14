@@ -39,30 +39,36 @@ My current development config for Neovim in Lua. Focused primarily on Ruby on Ra
 
 https://github.com/folke/lazy.nvim
 
+
 ### Lualine.nvim
  **lualine.nvim** ia a blazing fast and easy to configure Neovim statusline written in Lua.
 
 https://github.com/nvim-lualine/lualine.nvim
+
 
 ### Neo-tree.nvim
 **neo-tree.nvim** is a Neovim plugin to browse the file system and other tree like structures in whatever style suits you, including sidebars, floating windows, netrw split style, or all of them at once!
 
 https://github.com/nvim-neo-tree/neo-tree.nvim
 
+
 ### telescope.nvim
 **telescope.nvim** is a highly extendable fuzzy finder over lists. Built on the latest awesome features from neovim core. Telescope is centered around modularity, allowing for easy customization.
 
 https://github.com/nvim-telescope/telescope.nvim
+
 
 ### Treesitter.nvim
 The goal of nvim-treesitter is both to provide a simple and easy way to use the interface for [[tree-sitter]](https://github.com/tree-sitter/tree-sitter) in Neovim and to provide some basic functionality such as highlighting based on it.
 
 https://github.com/nvim-treesitter/nvim-treesitter
 
+
 ### Comment.nvim
 Smart and Powerful commenting plugin for neovim. 
 
 https://github.com/numToStr/Comment.nvim
+
 
 ### TPope Plugins
 
@@ -78,15 +84,18 @@ https://github.com/tpope/vim-rhubarb
 
 https://github.com/tpope/vim-rails
 
+
 ### Mason.nvim
 **mason.nvim** is a Neovim plugin that allows you to easily manage external editor tooling such as LSP servers, DAP servers, linters, and formatters through a single interface. It runs everywhere Neovim runs (across Linux, macOS, Windows, etc.), with only a small set of external requirements needed.
 
 https://github.com/williamboman/mason.nvim
 
+
 ### Dressing.nvim
 With the release of Neovim 0.6 we were given the start of extensible core UI hooks (vim.ui.select and vim.ui.input). They exist to allow plugin authors to override them with improvements upon the default behavior, so that's exactly what we're going to do.
 
 https://github.com/stevearc/dressing.nvim
+
 
 ### nvim-cmp
 **nvim-cmp** is a completion engine plugin for neovim written in Lua. Completion sources are installed from external repositories and "sourced".
