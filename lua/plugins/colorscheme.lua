@@ -1,19 +1,21 @@
 return {
-  -- {
-  --   "craftzdog/solarized-osaka.nvim",
-  --   lazy = false,
-  --   name = "solarized-osaka",
-  --   priority = 1000,
-  --   config = function()
-  --     vim.cmd.colorscheme "solarized-osaka"
-  --   end
-  -- },
   {
+    -- "craftzdog/solarized-osaka.nvim",
+    -- name = "solarized-osaka",
     "bluz71/vim-nightfly-guicolors",
-    priority = 1000, -- make sure to load this before all the other start plugins
-    config = function()
-      -- load the colorscheme here
-      vim.cmd([[colorscheme nightfly]])
+    -- 'mhartington/oceanic-next',
+    -- 'chriskempson/base16-vim',
+    lazy = false,
+    priority = 1000,
+    -- name = "solarized-osaka",
+    -- name = "base16-default-dark",
+  
+    -- load the colorscheme
+    config = function ()
+      -- vim.cmd.colorscheme "base16-default-dark"
+      -- vim.cmd.colorscheme "solarized-osaka"
+      vim.cmd.colorscheme "nightfly"
+      -- vim.cmd.colorscheme "OceanicNext"
     end,
   },
 }
