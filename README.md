@@ -73,17 +73,11 @@ https://github.com/numToStr/Comment.nvim
 
 ### TPope Plugins
 
-**fugitive.vim** is the premier Vim plugin for Git. Or maybe it's the premier Git plugin for Vim? Either way, it's "so awesome, it should be illegal". That's why it's called Fugitive.
+**fugitive.vim** is the premier Vim plugin for Git. Or maybe it's the premier Git plugin for Vim? Either way, it's "so awesome, it should be illegal". That's why it's called Fugitive. https://github.com/tpope/vim-fugitive
 
-https://github.com/tpope/vim-fugitive
+**rhubarb.vim** If fugitive.vim is the Git, rhubarb.vim is the Hub. https://github.com/tpope/vim-rhubarb
 
-**rhubarb.vim** If fugitive.vim is the Git, rhubarb.vim is the Hub.
-
-https://github.com/tpope/vim-rhubarb
-
-**rails.vim** This is a massive (in a good way) Vim plugin for editing Ruby on Rails applications.
-
-https://github.com/tpope/vim-rails
+**rails.vim** This is a massive (in a good way) Vim plugin for editing Ruby on Rails applications. https://github.com/tpope/vim-rails
 <br><br>
 
 ### Mason.nvim
