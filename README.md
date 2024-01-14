@@ -2,7 +2,7 @@
 
 My current development config for Neovim in Lua. Focused primarily on Ruby on Rails development, cofniguration shoudl also support other langauges and frameworks I work with including Node.js, Express,js, ReactJS, React Native, and Arduino.
 
-## ~.config/nvim Folder Structure
+## ~/.config/nvim Folder Structure
 
 ```
 .
