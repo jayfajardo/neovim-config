@@ -19,3 +19,6 @@ tags
 [._]*.un~
 
 plugged/*
+
+
+lazy-lock.json
